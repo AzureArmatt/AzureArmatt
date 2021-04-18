@@ -5,9 +5,9 @@ I used to swim a lot but few years ago i stopped (i hope to get back to it soon 
 
 I’m currently learning FrontEnd development here is the list of my progress:
    - HTML :heavy_check_mark:
-   - CSS :arrow_backward:
+   - CSS  :heavy_check_mark:
    - JavaScript :heavy_check_mark:
-   - SASS :arrow_backward:
+   - SASS (with some advanced CSS) :arrow_backward:
   
 Of course there is even more practice before me and even more learning! :fire:
 
