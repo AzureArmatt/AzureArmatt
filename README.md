@@ -18,7 +18,7 @@ Here are plans for the future:
    - Express
    - MongoDB
   
-I'm doing all of this with hopes of becoming Fullstack developer in distant future (FrontEnd dev for now)!
+I'm doing all of this with hopes of becoming Fullstack developer in a future (FrontEnd dev for now)!
 
 If you are interested in talking with me, asking about anything or maybe giving me some guidance... you can find me here:
 
