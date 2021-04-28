@@ -12,7 +12,8 @@ I’m currently learning FrontEnd development here is the list of my progress:
 Of course there is even more practice before me and even more learning! :fire:
 
 Here are plans for the future:
-
+   
+   - React and/or Angular
    - Node.js
    - Express
    - MongoDB
