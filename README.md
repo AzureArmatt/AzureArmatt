@@ -17,7 +17,11 @@ Here are plans for the future:
    - ![img](https://img.shields.io/static/v1?label=Node.js&message=&nbsp;&color=brightgreen)
    - ![img](https://img.shields.io/static/v1?label=Express&message=&nbsp;&color=lightgrey)
    - ![img](https://img.shields.io/static/v1?label=MongoDB&message=&nbsp;&color=inactive)
-  
+
+And also a couple of "extras" I would like to study once i posess knowledge above:
+
+   - ![img](https://img.shields.io/static/v1?label=Salesforce&message=&nbsp;&color=informational)
+
 I'm doing all of this with hopes of becoming Fullstack developer in a future (FrontEnd dev for now)!
 
 If you are interested in talking with me, asking about anything or maybe giving me some guidance... you can find me here:
