@@ -4,19 +4,19 @@ I'm interested in many random things be it a good book, video game or even playi
 I used to swim a lot but few years ago i stopped (i hope to get back to it soon :smiley: )
 
 I’m currently learning FrontEnd development here is the list of my progress:
-   - HTML :heavy_check_mark:
-   - CSS  :heavy_check_mark:
-   - JavaScript :heavy_check_mark:
-   - SASS (with some advanced CSS) :heavy_check_mark:
+   - ![img](https://img.shields.io/static/v1?label=HTML&message=&nbsp;&color=orange) :heavy_check_mark:
+   - ![img](https://img.shields.io/static/v1?label=CSS&message=&nbsp;&color=informational) :heavy_check_mark:
+   - ![img](https://img.shields.io/static/v1?label=Sass&message=&nbsp;&color=ff69b4) :heavy_check_mark:
+   - ![img](https://img.shields.io/static/v1?label=JavaScript&message=&nbsp;&color=yellow) :heavy_check_mark: 
   
 Of course there is even more practice before me and even more learning! :fire:
 
 Here are plans for the future:
    
-   - React and/or Angular
-   - Node.js
-   - Express
-   - MongoDB
+   - ![img](https://img.shields.io/static/v1?label=React&message=&nbsp;&color=9cf) and/or ![img](https://img.shields.io/static/v1?label=Angular&message=&nbsp;&color=red)
+   - ![img](https://img.shields.io/static/v1?label=Node.js&message=&nbsp;&color=brightgreen)
+   - ![img](https://img.shields.io/static/v1?label=Express&message=&nbsp;&color=lightgrey)
+   - ![img](https://img.shields.io/static/v1?label=MongoDB&message=&nbsp;&color=inactive)
   
 I'm doing all of this with hopes of becoming Fullstack developer in a future (FrontEnd dev for now)!
 
