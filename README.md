@@ -9,8 +9,6 @@ I’m currently learning FrontEnd development here is the list of my progress:
    - ![img](https://img.shields.io/static/v1?label=Sass&message=&nbsp;&color=ff69b4) :heavy_check_mark:
    - ![img](https://img.shields.io/static/v1?label=JavaScript&message=&nbsp;&color=yellow) :heavy_check_mark: 
    - ![img](https://img.shields.io/static/v1?label=JQuery&message=&nbsp;&color=lightgrey) :heavy_check_mark:
-   
-Of course there is even more practice before me and even more learning! :fire:
 
 Here are plans for the future:
    
