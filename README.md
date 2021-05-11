@@ -9,10 +9,10 @@ I’m currently learning FrontEnd development here is the list of my progress:
    - ![img](https://img.shields.io/static/v1?label=Sass&message=&nbsp;&color=ff69b4) :heavy_check_mark:
    - ![img](https://img.shields.io/static/v1?label=JavaScript&message=&nbsp;&color=yellow) :heavy_check_mark: 
    - ![img](https://img.shields.io/static/v1?label=JQuery&message=&nbsp;&color=lightgrey) :heavy_check_mark:
-
+   - ![img](https://img.shields.io/static/v1?label=Bootstrap&message=&nbsp;&color=blueviolet) :heavy_check_mark:
+   
 Here are plans for the future:
    
-   - ![img](https://img.shields.io/static/v1?label=Bootstrap&message=&nbsp;&color=blueviolet)
    - ![img](https://img.shields.io/static/v1?label=React&message=&nbsp;&color=9cf) and/or ![img](https://img.shields.io/static/v1?label=Angular&message=&nbsp;&color=red)
    - ![img](https://img.shields.io/static/v1?label=Node.js&message=&nbsp;&color=brightgreen)
    - ![img](https://img.shields.io/static/v1?label=Express&message=&nbsp;&color=lightgrey)
