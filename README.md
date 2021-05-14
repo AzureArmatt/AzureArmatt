@@ -18,7 +18,7 @@ Here are things I've learned so far on my journey:
    
 Technologies/libraries/frameworks I'm planning on learning in future:
    
-   - ![img](https://img.shields.io/static/v1?label=React&message=&nbsp;&color=9cf) and/or ![img](https://img.shields.io/static/v1?label=Angular&message=&nbsp;&color=red)
+   - ![img](https://img.shields.io/static/v1?label=React&message=&nbsp;&color=9cf)
    - ![img](https://img.shields.io/static/v1?label=Next.js&message=&nbsp;&color=lightgrey)
    - ![img](https://img.shields.io/static/v1?label=Node.js&message=&nbsp;&color=brightgreen)
    - ![img](https://img.shields.io/static/v1?label=Express&message=&nbsp;&color=lightgrey)
