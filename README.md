@@ -27,8 +27,6 @@ Technologies/libraries/frameworks I'm planning on learning in future:
    ![img](https://img.shields.io/static/v1?label=MongoDB&message=&nbsp;&color=inactive)
    ![img](https://img.shields.io/static/v1?label=Salesforce&message=&nbsp;&color=informational)
 
-I'm doing all of this with hopes of becoming Fullstack developer in a future!
-
 I also have Experience with C/C++ and Java! (Projects done on University)
 
 If you are interested in talking with me, asking about anything or maybe giving me some guidance... you can find me here:
