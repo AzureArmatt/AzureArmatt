@@ -8,17 +8,17 @@ I used to swim a lot but due to pandemic i stopped but i will get back to it ver
 
 Here are things I've learned so far on my journey:
 
-   ![img](https://img.shields.io/static/v1?label=HTML&message=&nbsp;&color=orange)
-   ![img](https://img.shields.io/static/v1?label=CSS&message=&nbsp;&color=informational)
-   ![img](https://img.shields.io/static/v1?label=Sass&message=&nbsp;&color=ff69b4)
-   ![img](https://img.shields.io/static/v1?label=JavaScript&message=&nbsp;&color=yellow)
-   ![img](https://img.shields.io/static/v1?label=NPM&message=&nbsp;&color=red)
-   ![img](https://img.shields.io/static/v1?label=JQuery&message=&nbsp;&color=lightgrey)
-   ![img](https://img.shields.io/static/v1?label=Bootstrap&message=&nbsp;&color=blueviolet)
+   - ![img](https://img.shields.io/static/v1?label=HTML&message=&nbsp;&color=orange)
+   - ![img](https://img.shields.io/static/v1?label=CSS&message=&nbsp;&color=informational)
+   - ![img](https://img.shields.io/static/v1?label=Sass&message=&nbsp;&color=ff69b4)
+   - ![img](https://img.shields.io/static/v1?label=JavaScript&message=&nbsp;&color=yellow)
+   - ![img](https://img.shields.io/static/v1?label=NPM&message=&nbsp;&color=red)
+   - ![img](https://img.shields.io/static/v1?label=JQuery&message=&nbsp;&color=lightgrey)
+   - ![img](https://img.shields.io/static/v1?label=Bootstrap&message=&nbsp;&color=blueviolet)
+   - ![img](https://img.shields.io/static/v1?label=React&message=&nbsp;&color=9cf)
    
 Technologies/libraries/frameworks I'm planning on learning in future:
    
-   - ![img](https://img.shields.io/static/v1?label=React&message=&nbsp;&color=9cf)
    - ![img](https://img.shields.io/static/v1?label=Next.js&message=&nbsp;&color=lightgrey)
    - ![img](https://img.shields.io/static/v1?label=Node.js&message=&nbsp;&color=brightgreen)
    - ![img](https://img.shields.io/static/v1?label=Express&message=&nbsp;&color=lightgrey)
