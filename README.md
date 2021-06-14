@@ -16,6 +16,8 @@ Here are things I've learned so far on my journey:
    ![img](https://img.shields.io/static/v1?label=JQuery&message=&nbsp;&color=lightgrey)
    ![img](https://img.shields.io/static/v1?label=Bootstrap&message=&nbsp;&color=blueviolet)
    ![img](https://img.shields.io/static/v1?label=React&message=&nbsp;&color=9cf)
+   ![img](https://img.shields.io/static/v1?label=Redux&message=&nbsp;&color=9cf)
+   ![img](https://img.shields.io/static/v1?label=React-Router&message=&nbsp;&color=9cf)
    
 Technologies/libraries/frameworks I'm planning on learning in future:
    
