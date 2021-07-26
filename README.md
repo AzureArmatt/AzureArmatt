@@ -28,7 +28,7 @@ Technologies/libraries/frameworks I'm planning on learning in future:
 
 ## What am I doing currently?
 
->At this time, after learning basics of FrontEnd and React.js I decided to take a look at Salesforce. My progress can be found here: https://trailblazer.me/id/mrogulski . The road for learning never stops 😄
+>At this time, after learning basics of FrontEnd and React.js I decided to take a look at Salesforce. My progress can be found here: https://trailblazer.me/id/mrogulski . The road for learning never ends 😄
 
 If you are interested in talking with me, asking about anything or maybe giving me some guidance... you can find me here: 
 
