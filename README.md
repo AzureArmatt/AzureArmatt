@@ -15,7 +15,7 @@ Here are things I've learned so far on my journey:
    ![img](https://img.shields.io/static/v1?label=JavaScript&message=&nbsp;&color=yellow)
    ![img](https://img.shields.io/static/v1?label=React&message=&nbsp;&color=9cf)
    ![img](https://img.shields.io/static/v1?label=NPM&message=&nbsp;&color=red)
-   ![img](https://img.shields.io/static/v1?label=JQuery&message=&nbsp;&color=lightgrey)
+   ![img](https://img.shields.io/static/v1?label=jQuery&message=&nbsp;&color=lightgrey)
    ![img](https://img.shields.io/static/v1?label=Bootstrap&message=&nbsp;&color=blueviolet)
    ![img](https://img.shields.io/static/v1?label=Firebase&message=&nbsp;&color=yellow)
    
@@ -26,11 +26,14 @@ Technologies/libraries/frameworks I'm planning on learning in future:
    ![img](https://img.shields.io/static/v1?label=MongoDB&message=&nbsp;&color=inactive)
    ![img](https://img.shields.io/static/v1?label=Salesforce&message=&nbsp;&color=informational)
 
-If you are interested in talking with me, asking about anything or maybe giving me some guidance... you can find me here:
+## What am I doing currently?
+
+>At this time, after learning basics of FrontEnd and React.js I decided to take a look at Salesforce. My progress can be found here: https://trailblazer.me/id/mrogulski . The road for learning never stops 😄
+
+If you are interested in talking with me, asking about anything or maybe giving me some guidance... you can find me here: 
 
   - Facebook: https://www.facebook.com/mateusz.rogulski.359
   - Discord: AzureArmatt#7138
-
 
 <!---
 AzureArmatt/AzureArmatt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
