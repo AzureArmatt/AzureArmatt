@@ -18,6 +18,7 @@ Here are things I've learned so far on my journey:
    ![img](https://img.shields.io/static/v1?label=jQuery&message=&nbsp;&color=lightgrey)
    ![img](https://img.shields.io/static/v1?label=Bootstrap&message=&nbsp;&color=blueviolet)
    ![img](https://img.shields.io/static/v1?label=Firebase&message=&nbsp;&color=yellow)
+   ![img](https://img.shields.io/static/v1?label=MySQL&message=&nbsp;&color=red)
    
 Technologies/libraries/frameworks I'm planning on learning in future:
    
