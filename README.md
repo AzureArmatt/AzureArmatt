@@ -25,11 +25,10 @@ Technologies/libraries/frameworks I'm planning on learning in future:
    ![img](https://img.shields.io/static/v1?label=Node.js&message=&nbsp;&color=brightgreen)
    ![img](https://img.shields.io/static/v1?label=Express&message=&nbsp;&color=lightgrey)
    ![img](https://img.shields.io/static/v1?label=MongoDB&message=&nbsp;&color=inactive)
-   ![img](https://img.shields.io/static/v1?label=Salesforce&message=&nbsp;&color=informational)
 
 ## What am I doing currently?
 
->At this time, after learning basics of FrontEnd and React.js I decided to take a look at Salesforce. My progress can be found here: https://trailblazer.me/id/mrogulski . The road for learning never ends 😄
+>Learning (obviously) and preparing for a master's degree at uni. Can't stop and won't stop learning ever! 😄
 
 If you are interested in talking with me, asking about anything or maybe giving me some guidance... you can find me here: 
 
