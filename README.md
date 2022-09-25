@@ -30,11 +30,6 @@ Technologies/libraries/frameworks I'm planning on learning in future:
 
 >Learning (obviously) and preparing for a master's degree at uni. Can't stop and won't stop learning ever! 😄
 
-If you are interested in talking with me, asking about anything or maybe giving me some guidance... you can find me here: 
-
-  - Facebook: https://www.facebook.com/mateusz.rogulski.359
-  - Discord: AzureArmatt#7138
-
 <!---
 AzureArmatt/AzureArmatt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
